@@ -45,7 +45,7 @@ sinusoidales, manejándose por las mismas propiedades siendo la amplitud y la fr
 
 La enfermedad modelada es la otitis media, la cual es una infección de oído, provocando que se encuentre líquido en el espacio donde se encuentran los huesillos, evitando la vibración del tímpano y por lo tanto menor captación de ruido. La enfermedad se modela aumentando la resistencia R2 debido a la obstrucción por el líquido generado por la infección dentro del oído medio. 
 
-Palabras clave: Circuito RLC; Controlador PI; Sistema cardiovascular; Modelo matemático; Simulaciones numéricas.
+Palabras clave: Circuito RLC; Controlador PI; Sistema auditivo; Modelo matemático; Simulaciones numéricas.
 
 ## Lista de archivos incluidos en el repositorio
 1. Cuaderno computacional de MATLAB [.mlx].
