@@ -1,8 +1,9 @@
-[![Open in MATLAB Online]()
+[![Open in MATLAB Online]]
 # Proyecto Final: Sistema auditivo
 
 ## Información de los estudiantes
 Fonseca Diaz Iván De Jesús \[22212383]; l22212383@tectijuana.edu.mx
+
 Rafael Herrera Aguilar \[22212258]; l22212258@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
@@ -27,8 +28,7 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 3. Determinar el modelo de ecuaciones integro-diferenciales.
 4. Calcular el error en estado estacionario y la estabilidad en lazo abierto.
 5. Emular y simular la respuesta del circuito en Simulink/Simscape a la señal sinusoidal.
-6. Sintonizar las ganancias de un controlador PID para eliminar el error entre la entrada y la salida del sistema normotenso-hipotenso y normotenso-hipertenso.
-7. Obtener la respuesta en lazo abierto y en lazo cerrado con el controlador PID en Spyder/Python con la función de transferencia.
+6. Sintonizar las ganancias de un controlador PID para eliminar el error entre la entrada y la salida del sistema control-caso.
 
 ## Descripción detallada del sistema
 
@@ -50,10 +50,9 @@ Palabras clave: Circuito RLC; Controlador PI; Sistema cardiovascular; Modelo mat
 ## Lista de archivos incluidos en el repositorio
 1. Cuaderno computacional de MATLAB [.mlx].
 2. Modelo de Simulink [.slx].
-3. Archivos de Spyder [.py].
-4. Imagen con los parámetros del controlador.
-5. Imágenes de las simulaciones [.pdf y .png].
-6. Evidencia del análisis matemático: función de transferencia, modelo de ecuaciones integro-diferenciales, error en estado estacionario y estabilidad en lazo abierto.
+3. Imagen con los parámetros del controlador.
+4. Imágenes de las simulaciones [.pdf y .png].
+5. Evidencia del análisis matemático: función de transferencia, modelo de ecuaciones integro-diferenciales, error en estado estacionario y estabilidad en lazo abierto.
 
 ## Referencias
 \[1] P. A. Valle, Syllabus para Modelado de Sistemas Fisiológicos, Tecnológico Nacional de México / Instituto Tecnológico de Tijuana, Tijuana, B.C., México, 2025. Permalink: https://biomath.xyz/course/
